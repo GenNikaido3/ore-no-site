@@ -5,27 +5,24 @@ body{
 }
 
 header{
+  margin:0;
   background-color: #E1E1F1;
   text-align: center;
-  padding: 36px 0;
+
 }
 
 header img{
+  width: 100%;
+  height: auto;
 
 }
 
 h1{
-  margin: 0;
+  margin:0;
+  padding:24px 0;
   font-weight: normal;
-  font-size: 36px;
-  margin-top: 16px;
 }
 
-header p{
-  font-size: 16px;
-  margin: 0;
-  margin-top: 16px
-}
 
 main{
   text-align: center; 
@@ -40,7 +37,7 @@ h2{
 
 
 section{
-  width: 1220px;
+  width: 100%;
   margin: 0 auto;
   
 }
